@@ -1,5 +1,5 @@
 # Todo List React TS
-
+![captura](https://user-images.githubusercontent.com/16615266/52808981-d165b300-3054-11e9-85ea-ccee36d31d64.JPG)
 ## Usage
 
 ### Installation
